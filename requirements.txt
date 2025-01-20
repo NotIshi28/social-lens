@@ -1,0 +1,6 @@
+nltk==3.9.1
+pandas==2.2.3
+plotly==5.23.0
+streamlit==1.37.1
+textblob==0.18.0.post0
+wordcloud==1.9.4
